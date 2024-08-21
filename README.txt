@@ -45,4 +45,4 @@ Decrypt a File:
 
 Click the “Decrypt” button to decrypt the selected file. The decrypted file will be saved with a .dec extension.
 Key Handling:
-The application uses a hardcoded encryption key (1234567890123456). For production use, consider implementing secure key management.
+The application uses a hardcoded encryption key (1234567890123456).For implementing secure key management is considered.
